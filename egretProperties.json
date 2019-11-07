@@ -1,0 +1,47 @@
+{
+  "engineVersion": "5.2.28",
+  "compilerVersion": "5.2.28",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "WXCloudApi",
+      "path": "./libs/WXCloudApi"
+    },
+    {
+      "name": "egretmgobe",
+      "path": "./libs/egretmgobe"
+    },
+    {
+      "name": "mouse",
+      "path": "../../egret-game-library-master/mouse/libsrc"
+    },
+    {
+      "name": "keyboard",
+      "path": "../../egret-game-library-master/keyboard/libsrc"
+    }
+  ],
+  "targets": {
+    "android": {
+      "appname": "Egret_EUI",
+      "packagename": "com.companyname"
+    }
+  }
+}

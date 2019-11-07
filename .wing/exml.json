@@ -1,0 +1,80 @@
+{
+    "16d612575bc": {
+        "path": "Scene\\SceneEui.ts",
+        "class": "SceneEui",
+        "parentPath": ""
+    },
+    "global": {
+        "globalAutoLayerMarkEnable": true
+    },
+    "16d61513465": {
+        "path": "Scene\\ButtonScene.ts",
+        "class": "ButtonScene",
+        "parentPath": ""
+    },
+    "16d61518145": {
+        "path": "Scene\\SliderScene.ts",
+        "class": "SliderScene",
+        "parentPath": ""
+    },
+    "16d6151bab2": {
+        "path": "Scene\\ProgressScene.ts",
+        "class": "ProgressScene",
+        "parentPath": ""
+    },
+    "16d6151f3a9": {
+        "path": "Scene\\PanelScene.ts",
+        "class": "PanelScene",
+        "parentPath": ""
+    },
+    "16d61522cef": {
+        "path": "Scene\\ListScene.ts",
+        "class": "ListScene",
+        "parentPath": ""
+    },
+    "16d61528f9f": {
+        "path": "Scene\\LabelScene.ts",
+        "class": "LabelScene",
+        "parentPath": ""
+    },
+    "16d6152da53": {
+        "path": "Scene\\EditableScene.ts",
+        "class": "EditableScene",
+        "parentPath": ""
+    },
+    "16d6250d642": {
+        "path": "Scene\\GroupScene.ts",
+        "class": "GroupScene",
+        "parentPath": ""
+    },
+    "16d677af2f7": {
+        "path": "Button\\ButtonSkin.ts",
+        "class": "ButtonSkin",
+        "parentPath": ""
+    },
+    "16d6c1b7762": {
+        "path": "SceneComponent\\FilterScene.ts",
+        "class": "FilterScene",
+        "parentPath": ""
+    },
+    "16d70a9794e": {
+        "path": "Kit\\MouseScene.ts",
+        "class": "MouseScene",
+        "parentPath": ""
+    },
+    "16d70b4db90": {
+        "path": "Kit\\KeyboardScene.ts",
+        "class": "KeyboardScene",
+        "parentPath": ""
+    },
+    "16d71204ecd": {
+        "path": "SceneComponent\\ScrollerScene.ts",
+        "class": "ScrollerScene",
+        "parentPath": ""
+    },
+    "16dd7cf7445": {
+        "path": "SceneManager\\fff.ts",
+        "class": "fff",
+        "parentPath": ""
+    }
+}

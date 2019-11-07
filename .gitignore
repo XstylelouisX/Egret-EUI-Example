@@ -1,0 +1,6 @@
+bin-debug/
+bin-release/
+.idea/
+temp/
+egret.d.ts
+manifest.json
