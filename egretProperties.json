@@ -31,11 +31,11 @@
     },
     {
       "name": "mouse",
-      "path": "../../egret-game-library-master/mouse/libsrc"
+      "path": "../mouse/libsrc"
     },
     {
       "name": "keyboard",
-      "path": "../../egret-game-library-master/keyboard/libsrc"
+      "path": "../keyboard/libsrc"
     }
   ],
   "targets": {
